@@ -1,0 +1,95 @@
+1 - DSSS
+
+1) What are different spreading techniques you know?
+Answer -- 
+main aim is to prevent interference whether intentional or otherwise.
+Pseudo Noise Sequence(PN sequence)
+Spread spectrums -- 
+1. Frequency Hopped spread sequence(FHSS)
+2. Direct Sequence Spread Sequence(DSSS)
+For more -- https://www.tutorialspoint.com/digital_communication/digital_communication_spread_spectrum_modulation.htm
+
+2)What is full form for FHSS?
+Answer -- 
+Frequecy Hopped Spread Spectrum
+
+3) Draw Transmitter and receiver block diagram of  DSSS!
+Answer -- 
+https://www.researchgate.net/figure/Block-diagram-of-the-a-transmitter-and-b-receiver-of-the-DSSS-system_fig2_329286286
+
+4)Diffrence between all modulation techniques?
+Answer -- 
+Techno DC -- pg 4-20
+
+5) Bandwidth of different modulation techniques!
+Answer -- 
+BPSK -- 2fb
+QPSK -- fb
+QAM -- 2fb/N
+Mary PSK -- 2fb/N
+BFSK -- 4fb
+mary fsk -- 2^(N+1)fb/N
+MSK -- 1.5fb
+
+6) Which types of modulation is used in dish tv?
+Answer -- 
+Quadrature Amplitude Modulation(QAM) or Vestigial Side Band Modulation(VSB modulation)
+
+7) Applications of Spread Spectrum.
+Answer -- 
+1.Cross-talk elimination
+2.Better output with data integrity
+3.Reduced effect of multipath fading
+4.Better security
+5.Reduction in noise
+6.Co-existence with other systems
+7.Longer operative distances
+8.Hard to detect
+9.Not easy to demodulate/decode
+10.Difficult to jam the signals
+
+2.
+
+1)All the basics about entropy , random variable, random process.
+Answer -- 
+Entropy -- a function which attempts to characterize the “unpredictability” of a random variable.
+Random Variable -- A random variable is a mathematical formalization of a quantity or object which depends on random events.
+Random Process -- Collection of random variables indexed by time.
+
+2)source coding and channel coding.
+Answer -- 
+Source Coding -- mapping from symbols from an information source to a sequence of alphabet symbols such that the source symbols can be exactly recoverd from binary bits or recoved within some distortion.
+Channel Coding -- process of detecting and correcting bit error in digital communication system.
+
+3)Different coding techniques and their comparison?
+
+
+4)Effect on result upon change in source code
+
+3.
+
+1 Applications of different modulation techniques 
+Answer -- 
+1. Reduces antenna height
+2. Avoids signal mixing
+3. Increases communication range
+4. Multiplexing is possible
+5. Improves reception
+
+
+2 Why is invertor used in generation of BfSK?
+Answer -- 
+to provide gain of -1
+
+3 Unit of entropy
+Answer -- 
+bits, shannons 
+
+4 Details about random process
+Answer -- 
+it has mean, variance, autocorrelation, 
+Diff classes -- Stationary, strictly wide sense,PSD
+
+5 How is security maintained in DSSS
+6 What is match filter?
+An optimum filter which yields a maximum ratio  is called matched filter when input noise is white and psd of input noise is given by No/2.
